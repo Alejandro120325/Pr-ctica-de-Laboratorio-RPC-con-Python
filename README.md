@@ -11,7 +11,7 @@ El proyecto fue desarrollado como parte de la asignatura de **Sistemas Distribui
 ---
 
 ## 👥 Colaboradores
-* **Jairo Alejandro Ojeda Herrera** 
+* **Alejandro Ojeda** 
 * **Adrian Castillo**
 
 ---
